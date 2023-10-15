@@ -23,7 +23,7 @@ public class Home extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(700, 700);
         setLocationRelativeTo(null);
-        setResizable(true);
+//        setResizable(true);
 
         //Desired fonts is created for the label and buttons
         Font calistoLabel = new Font("Calisto MT", Font.PLAIN, 50);
